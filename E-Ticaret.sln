@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Ticaret", "E-Ticaret\E-Ticaret.csproj", "{6ADD07D2-6277-4897-8624-1FA0DB6B2534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ADD07D2-6277-4897-8624-1FA0DB6B2534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADD07D2-6277-4897-8624-1FA0DB6B2534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADD07D2-6277-4897-8624-1FA0DB6B2534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADD07D2-6277-4897-8624-1FA0DB6B2534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315CB625-F20D-423C-9B32-3E47BA9349EC}
+	EndGlobalSection
+EndGlobal
